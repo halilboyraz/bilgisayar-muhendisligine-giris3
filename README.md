@@ -1,2 +1,2 @@
-# bilgisayar-muhendisligine-giris3
-bilgisayar muhendisligine giris
+numara: 16008123105  
+isim-soyisim: Halil BOYRAZ
